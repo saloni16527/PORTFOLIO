@@ -1,4 +1,4 @@
 # PORTFOLIO
-<p>Hii,I am Saloni B-tech 1st Year</p>
+Hii,I am Saloni B-tech 1st Year
 <br>
-<p>Computer Science Student</p>
+Computer Science Student
